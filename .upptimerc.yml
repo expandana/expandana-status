@@ -4,7 +4,7 @@ repo: expandana-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-    - name: Production - learn
+    - name: Production - Learn
     url: https://learn.expandana.id
     - name: Production - Xena
     url: https://xena.expandana.id
