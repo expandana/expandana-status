@@ -4,7 +4,11 @@ repo: expandana-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Development - API Gateway
+    - name: Production - learn
+    url: https://learn.expandana.id
+    - name: Production - Xena
+    url: https://xena.expandana.id
+    - name: Development - API Gateway
     url: https://api-svc-development.expandana.id/v1/status
 
 status-website:
