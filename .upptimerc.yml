@@ -6,10 +6,10 @@ repo: expandana-status # Your GitHub repository name
 sites:
     - name: Production - Learn
       url: https://learn.expandana.id    
-    - name: Production - Xena
+    - name: Production - Admin
       url: https://xena.expandana.id
-    - name: Development - API Gateway
-      url: https://api-svc-development.expandana.id/v1/status
+    - name: Production - API Gateway
+      url: https://api-invest.expandana.id/v1/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
