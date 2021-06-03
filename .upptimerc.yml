@@ -4,11 +4,11 @@ repo: expandana-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-    - name: Production - Learn
+    - name: Production Learn
       url: https://learn.expandana.id    
-    - name: Production - Admin
+    - name: Production Admin
       url: https://xena.expandana.id
-    - name: Production - API Gateway
+    - name: Production API
       url: https://api-invest.expandana.id/v1/status
 
 status-website:
