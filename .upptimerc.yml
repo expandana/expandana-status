@@ -8,7 +8,9 @@ sites:
       url: https://learn.expandana.id    
     - name: Production Admin
       url: https://xena.expandana.id
-    - name: Production API
+    - name: Production Learn API
+      url: https://api.expandana.id/api/v1/learn/banner
+    - name: Production API Gateway
       url: https://api-invest.expandana.id/v1/status
 
 status-website:
